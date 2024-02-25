@@ -1,0 +1,59 @@
+[
+  {
+    "SubCategory1": "Logo Design",
+    "SubCategory2": "Book & Album covers",
+    "SubCategory3": "Flyers & Brochures",
+    "SubCategory4": "Web & Mobile Design",
+    "SubCategory5": "Search & Display Marketing"
+  },
+  {
+    "SubCategory1": "Social Media Marketing",
+    "SubCategory2": "Content Marketing",
+    "SubCategory3": "Video Marketing",
+    "SubCategory4": "Email Marketing",
+    "SubCategory5": "Search & Display Marketing"
+  },
+  {
+    "SubCategory1": "Resumes & Cover Letters",
+    "SubCategory2": "Proof Reading & Editing",
+    "SubCategory3": "Translation",
+    "SubCategory4": "Creative Writing",
+    "SubCategory5": "Business Copywriting"
+  },
+  {
+    "SubCategory1": "Promotional Videos",
+    "SubCategory2": "Editing & Post Production",
+    "SubCategory3": "Lyric & Music Videos",
+    "SubCategory4": "Other"
+  },
+  {
+    "SubCategory1": "Mixing & Mastering",
+    "SubCategory2": "Voice Over",
+    "SubCategory3": "Song Writers & Composers",
+    "SubCategory4": "Other",
+  },
+  {
+    "SubCategory1": "WordPress",
+    "SubCategory2": "Web & Mobile App",
+    "SubCategory3": "Data Analysis & Reports",
+    "SubCategory4": "QA",
+    "SubCategory5": "Databases",
+    "SubCategory6": "Other"
+  },
+  {
+    "SubCategory1": "Business Tips",
+    "SubCategory2": "Presentations",
+    "SubCategory3": "Market Advice",
+    "SubCategory4": "Legal Consulting",
+    "SubCategory5": "Financial Consulting",
+    "SubCategory6": "Other"
+  },
+  {
+    "SubCategory1": "Online Lessons",
+    "SubCategory2": "Relationship Advice",
+    "SubCategory3": "Astrology",
+    "SubCategory4": "Health, Nutrition & Fitness",
+    "SubCategory5": "Gaming",
+    "SubCategory6": "Other"
+  }
+]
